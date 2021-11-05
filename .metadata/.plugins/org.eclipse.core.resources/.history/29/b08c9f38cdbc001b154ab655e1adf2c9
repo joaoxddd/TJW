@@ -1,0 +1,5 @@
+package br.edu.ifce.carrinho;
+
+public class AddItem {
+
+}
